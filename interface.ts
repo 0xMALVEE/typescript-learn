@@ -38,3 +38,6 @@ interface Admin extends User{
     power: "admin"
 }
 
+
+
+export { }
