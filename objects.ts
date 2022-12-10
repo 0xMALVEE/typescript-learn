@@ -39,4 +39,12 @@ let bot: robot = {
     age: 33
 }
 
+// arrays 
+
+let numbers: number[] = [213,4,5234,3]
+
+let names: string[] = new Array()
+
+names.push('jhon')
+
 export { }
