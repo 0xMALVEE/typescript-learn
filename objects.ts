@@ -47,4 +47,8 @@ let names: string[] = new Array()
 
 names.push('jhon')
 
+// multi type arrays
+
+let mul: (string | number)[] = [1,2,3,"sadf"]
+
 export { }

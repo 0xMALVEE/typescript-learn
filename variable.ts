@@ -15,7 +15,7 @@ let isLoggedIn: boolean = false;
 let hero: number;
 
 function getHero(){
-    return "string";
+    return 4;
 }
 
 hero = getHero();
